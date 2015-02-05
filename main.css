@@ -1,0 +1,37 @@
+body {
+    background-image: url('images/gray_01.jpeg');
+    /*background: #414141;*/
+    color: #646464;
+    font-family: "Open Sans", "Helvetica Neue", "Helvetica", sans-serif;
+    font-size: 15px;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.7333;
+}
+
+h1 {
+    margin-left: 20px;
+}
+
+#main-physics {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title {
+    text-align: center;
+    padding-top: 150px;
+    font-size: 84px;
+    margin-bottom: 0em;
+}
+
+#under_title {
+    text-align: center;
+    padding-top: -50px;
+    color: #969696;
+    margin-top: 0em;
+}
+
+#black_box {
+    background-color: black;
+    color: #969696;
+}
